@@ -1,3 +1,3 @@
 name : samsung m21
-version : 11.8
+version : 12.0
 ram : 4 gb
